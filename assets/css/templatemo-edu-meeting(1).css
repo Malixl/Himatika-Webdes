@@ -950,6 +950,16 @@ section.upcoming-meetings {
   padding-bottom: 110px;
 }
 
+section.homepage-about {
+  background-image: url(../images/meetings-bg.jpg);
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 400px;
+  padding-bottom: 110px;
+}
+
 section.upcoming-meetings .section-heading {
   text-align: center;
 }
