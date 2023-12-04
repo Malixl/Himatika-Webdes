@@ -149,7 +149,8 @@ body {
 
 a {
   text-decoration: none !important;
-  color: #3cf;
+  color: black;
+  font-weight: 300;
 }
 
 a:hover {
@@ -1347,7 +1348,6 @@ section.our-facts h2 {
   color: #212121;
   letter-spacing: 0.5px;
 }
-
 
 section.our-facts .video {
   text-align: center;
