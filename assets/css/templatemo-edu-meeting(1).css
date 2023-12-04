@@ -81,9 +81,7 @@ center,
 dl,
 dt,
 dd,
-ol,
 ul,
-li,
 figure,
 header,
 nav,
@@ -117,13 +115,6 @@ html[xmlns] .clearfix {
 
 * html .clearfix {
   height: 1%;
-}
-
-ul,
-li {
-  padding: 0;
-  margin: 0;
-  list-style: none;
 }
 
 header,
