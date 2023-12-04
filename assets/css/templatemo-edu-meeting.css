@@ -953,6 +953,22 @@ section.upcoming-meetings {
   padding-bottom: 110px;
 }
 
+section.homepage-about {
+  background-image: url(../images/meetings-bg.jpg);
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 170px;
+  padding-bottom: 110px;
+}
+
+@media (max-width: 992px) {
+  section.homepage-about {
+    padding-top: 400px;
+  }
+}
+
 section.upcoming-meetings .section-heading {
   text-align: center;
 }
@@ -1164,7 +1180,7 @@ section.our-courses {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 140px;
+  padding-top: 50px;
   padding-bottom: 130px;
 }
 
